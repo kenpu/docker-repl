@@ -1,0 +1,2 @@
+FROM williamyeh/scala
+
